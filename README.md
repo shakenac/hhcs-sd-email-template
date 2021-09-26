@@ -1,1 +1,1 @@
-# hhcs-sd-email-template
+## Hand in Hand Counseling Services Workshops Email Template
